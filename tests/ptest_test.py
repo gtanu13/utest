@@ -58,7 +58,7 @@ class TestMathOperations(unittest.TestCase):
         self.assertEqual(1 + 1, 2)
 
     def test_subtraction(self):
-        self.assertEqual(2 - 1, 1)
+        self.assertEqual(2 - 1, 5)
 
 
 
